@@ -3,7 +3,7 @@ var router = express.Router()
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
-  res.json({ message: 'Welcome Wali GG Gaming API' })
+  res.json({ message: 'AHMAD WALI ALCHALIDI' })
 })
 
 module.exports = router
